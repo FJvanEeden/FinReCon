@@ -14,11 +14,14 @@ The goal of this project was to create an application that:
 
 The entire application is currently displayed on a single window. (Subject to change)
 
-![GitHub Logo](/Pictures/Load CSV.png)
+![](FinReCon/Pictures/Load CSV.png)
 
 The first step would be to use the browse function to retrieve the local CSV files.
 
-![GitHub Logo](/Pictures/Load CSV_2.png)
+![](./Pictures/Load CSV_2.png)
+
+
+![sample](/Pictures/Load CSV_2.png)
 
 
 Once the files are selected, click the "Compare" button to start the reconciliation process.
