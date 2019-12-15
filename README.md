@@ -14,7 +14,7 @@ The goal of this project was to create an application that:
 ##### Main window
 The entire application is currently displayed on a single window. (Subject to change)
 
-
+![Main](screenshots/Main_2.png)
 
 The first step would be to use the browse function to retrieve the local CSV files.
 
